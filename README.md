@@ -6,6 +6,7 @@
   <img src="https://github.com/DoveScribe/DoveScribe/blob/78807c921637b97bd040db5a93309fd15c48c74a/Sans%20titre%20557_20261112181533.png" width="100" alt="White Dove" />
 </div>
 
+
 <div align="center">
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
