@@ -16,5 +16,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/DoveScribe/DoveScribe/blob/9f20ffac753000ee97a5b473beacddf48eca7944/Sans%20titre%20545_20261112192444.png" width="450" alt="Alice" />
+  <img src="https://github.com/DoveScribe/DoveScribe/blob/6dcdad85050851dd4cad5d547df85622701e806d/Sans%20titre%20545_20261112224010.png" width="450" alt="Alice" />
 </div>
