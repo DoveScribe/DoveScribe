@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/DoveScribe/DoveScribe/blob/78807c921637b97bd040db5a93309fd15c48c74a/Sans%20titre%20557_20261112181533.png" width="100" alt="White Dove" />
+  <img src="https://github.com/DoveScribe/DoveScribe/blob/2a56f423a0e88461faaa39888c1f5c58b6b10baa/Sans%20titre%20562_20261113200425.png" width="100" alt="White Dove" />
 </div>
 
 
