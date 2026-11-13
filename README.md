@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DoveScribe/DoveScribe/blob/31bf206a209d0bd23065816f22e189d48b9d1c35/Sans%20titre%20561_20261113195045.png" width="1000">
+  <img src="https://github.com/DoveScribe/DoveScribe/blob/31bf206a209d0bd23065816f22e189d48b9d1c35/Sans%20titre%20561_20261113195045.png" width="800">
 </p>
 
 <div align="center">
