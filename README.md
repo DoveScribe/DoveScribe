@@ -17,7 +17,7 @@
 <tr>
 <td width="55%" valign="middle" align="right">
 
-<div style="padding-left: 25px;">
+<div style="padding-right: 25px;">
 
 ${\color{#BDB8A1}\text{?͟?͟?͟}}$ ⠀ ${\color{#E2E6DE}\text{or}}$ ⠀ ${\color{#B2A792}\text{StoryTeller}}$
 
@@ -27,7 +27,7 @@ ${\color{#C2BFAF}\text{Medieval Vibe}}$ ${\color{#E2E6DE}\text{/}}$ ⠀ ${\color
 
 <br/>
 
-${\color{#E2E6DE}\text{she / her}}$ ⠀ ${\color{#BDB8A1}\text{Literature}}$ ⠀ ${\color{#E2E6DE}\text{&}}$ ⠀ ${\color{#C2BFAF}\text{Folklore}}$
+${\color{#E2E6DE}\text{she / her}}$ ⠀ ${\color{#BDB8A1}\text{Literature}}$ ⠀ ${\color{#E2E6DE}\text{,}}$ ⠀ ${\color{#C2BFAF}\text{Folklore}}$
 
 <br/>
 
