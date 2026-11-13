@@ -13,23 +13,27 @@
 <div align="center">
   <img align="left" src="https://github.com/DoveScribe/DoveScribe/blob/dd5285cb00ed9227ebf70b6d48e147ab21d7ef6c/Sans%20titre%20545_0014-37-22_20261113191017.png" width="450" alt="Alice" />
 
-<div align="right" style="padding-left: 35px;">
+<div align="right">
+<table>
+<tr>
+<td width="35"></td>
+<td>
 
-  <div style="line-height: 2;">
+${\color{#BDB8A1}\text{?͟?͟?͟}}$ ⠀ ${\color{#E2E6DE}\text{or}}$ ⠀ ${\color{#B2A792}\text{StoryTeller}}$
 
-  ?͟?͟?͟  ⠀ or ⠀ StoryTeller
+${\color{#C2BFAF}\text{Medieval Vibe}}$ ${\color{#E2E6DE}\text{/}}$ ⠀ ${\color{#D6D0AC}\text{AngelCore}}$ ${\color{#E2E6DE}\text{✧}}$
 
-  Medieval Vibe / ⠀AngelCore  ✧
+${\color{#E2E6DE}\text{she}}$ ⠀ / ⠀ ${\color{#E2E6DE}\text{her}}$ ⠀ ${\color{#BDB8A1}\text{Literature}}$ ⠀ & ⠀ ${\color{#C2BFAF}\text{Folklore}}$
 
-  she ⠀ / ⠀ her ⠀ Literature ⠀ & ⠀Folklore
+${\color{#D6D0AC}\text{•}}$ ⠀ ${\color{#B2A792}\text{Writer}}$  ${\color{#E2E6DE}\text{•}}$ ⠀ ${\color{#BDB8A1}\text{Artist}}$  ${\color{#E2E6DE}\text{•}}$ ⠀ ${\color{#C2BFAF}\text{Dark Fantasy}}$ ${\color{#D6D0AC}\text{•}}$
 
-  •⠀Writer  •⠀ Artist  •  Dark Fantasy •
+${\color{#E2E6DE}\text{𓎢𓎠𓎠𓎟𓎠𓎠𓎡 𓎢𓎠𓎠𓎟𓎠𓎠𓎡}}$
 
-  ⠀   ⠀ 𓎢𓎠𓎠𓎟𓎠𓎠𓎡 𓎢𓎠𓎠𓎟𓎠𓎠𓎡
+${\color{#BDB8A1}\text{Currently}}$ ⠀ ${\color{#E2E6DE}\text{writing}}$ ⠀ ${\color{#B2A792}\text{:}}$
 
-  ⠀ ⠀Currently  ⠀ writing  ⠀:
+${\color{#D6D0AC}\text{𝕿һᥱ}}$ ⠀ ${\color{#B2A792}\text{𝕮ᥲrᥒᥲ᥎ᥲᥣ}}$ ⠀ ${\color{#E2E6DE}\text{᥆𝖿}}$ ⠀ ${\color{#C2BFAF}\text{𝕰᥎ᥱrᥒіgһ𝗍}}$
 
-  𝕿һᥱ ⠀𝕮ᥲrᥒᥲ᥎ᥲᥣ ⠀ ᥆𝖿 ⠀𝕰᥎ᥱrᥒіgһ𝗍
-
-  </div>
+</td>
+</tr>
+</table>
 </div>
