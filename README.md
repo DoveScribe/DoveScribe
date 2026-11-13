@@ -56,7 +56,7 @@ ${\color{#D6D0AC}\text{✧}}$ [The School Killer](https://www.wattpad.com/166343
 
 ${\color{#D6D0AC}\text{✧}}$ [School Killer YouTube Channel](https://youtube.com/@myr4_ik4m?si=n4J7q_619vPRuJnj)
 
-${\color{#D6D0AC}\text{✧}}$ [Les renier](https://www.wattpad.com/1667172838) (Looking for a French audience)
+${\color{#D6D0AC}\text{✧}}$ [Les renier](https://www.wattpad.com/1667172838) ${\color{#E2E6DE}\text{(Looking for a French audience)}}$
 
 </div>
 </p>
