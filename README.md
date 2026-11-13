@@ -18,7 +18,7 @@
   <p style="white-space: pre-wrap; line-height: 1.8;">
 ${\color{#BDB8A1}\text{?͟?͟?͟}}$ ⠀ ${\color{#E2E6DE}\text{or}}$ ⠀ ${\color{#B2A792}\text{StoryTeller}}$
 
-${\color{#C2BFAF}\text{Medieval Vibe}}$ ${\color{#E2E6DE}\text{/}}$ ⠀ ${\color{#D6D0AC}\text{AngelCore}}$ ✧
+${\color{#C2BFAF}\text{Medieval Vibe}}$ ${\color{#E2E6DE}\text{/}}$ ⠀ ${\color{#D6D0AC}\text{AngelCore}}$ ${\color{#B2A792}\text{✧}}$
 
 ${\color{#E2E6DE}\text{she}}$ ⠀ ${\color{#E2E6DE}\text{/}}$ ⠀ ${\color{#E2E6DE}\text{her}}$ ⠀ ${\color{#BDB8A1}\text{Literature}}$ ⠀ ${\color{#E2E6DE}\text{,}}$ ⠀ ${\color{#C2BFAF}\text{Folklore}}$
 
