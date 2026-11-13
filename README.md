@@ -35,5 +35,5 @@ ${\color{#D6D0AC}\text{𝕿һᥱ}}$ ⠀ ${\color{#B2A792}\text{𝕮ᥲrᥒᥲ᥎
 </div>
 
 <p align="center">
-  <img src="https://github.com/DoveScribe/DoveScribe/blob/b6e0b9cace810929cb921b9f60464baf49cfbca8/Sans%20titre%20563_20261113215542.png" width="800">
+  <img src="https://github.com/DoveScribe/DoveScribe/blob/6c85df4f292d4004b5d173ba68c5558e044cfbe1/Sans%20titre%20564_20261113222549.png" width="800">
 </p>
