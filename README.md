@@ -48,10 +48,17 @@ ${\color{#D6D0AC}\text{𝕿һᥱ}}$ ⠀ ${\color{#B2A792}\text{𝕮ᥲrᥒᥲ᥎
 <br/>
 
 <p align="center">
-${\color{#F6FFEB}\text{  ྀིྀིྀིྀིྀི ◡◡     France /   English.  ◡◡  ྀིྀིྀིྀིྀི}}$<br/>
-${\color{#7AA49E}\text{Artist     · Teenager}}$<br/>
-${\color{#D4E6DD}\text{ Problematic   dni  . Fantasy vibe    }}$<br/>
-${\color{#4C9489}\text{꒱ Medieval vibe     ·}}$ ${\color{#F6FFEB}\text{ fae aesthetic ꒰}}$
+<div align="left">
+
+${\color{#D6D0AC}\text{✧}}$ [The Carnaval of EverNight](https://www.wattpad.com/1666139884)
+
+${\color{#D6D0AC}\text{✧}}$ [The School Killer](https://www.wattpad.com/1663431921)
+
+${\color{#D6D0AC}\text{✧}}$ [School Killer YouTube Channel](https://youtube.com/@myr4_ik4m?si=n4J7q_619vPRuJnj)
+
+${\color{#D6D0AC}\text{✧}}$ [Les renier](https://www.wattpad.com/1667172838) (Looking for a French audience)
+
+</div>
 </p>
 
 </td>
