@@ -16,7 +16,7 @@
 <div align="right" style="padding-right: 35px;">
 ${\color{#BDB8A1}\text{?͟?͟?͟}}$ ⠀ ${\color{#E2E6DE}\text{or}}$ ⠀ ${\color{#B2A792}\text{StoryTeller}}$
 ${\color{#C2BFAF}\text{Medieval Vibe}}$ / ⠀ ${\color{#D6D0AC}\text{AngelCore}}$ ✧
-${\color{#E2E6DE}\text{she}}$ ⠀ / ⠀ ${\color{#E2E6DE}\text{her}}$ ⠀ ${\color{#BDB8A1}\text{Literature}}$ ⠀ & ⠀ ${\color{#C2A792}\text{Folklore}}$
+${\color{#E2E6DE}\text{she}}$ ⠀ / ⠀ ${\color{#E2E6DE}\text{her}}$ ⠀ ${\color{#BDB8A1}\text{Literature}}$ ⠀ ,⠀ ${\color{#C2A792}\text{Folklore}}$
 ${\color{#D6D0AC}\text{•}}$ ⠀ ${\color{#B2A792}\text{Writer}}$  ${\color{#E2E6DE}\text{•}}$ ⠀ ${\color{#BDB8A1}\text{Artist}}$  ${\color{#E2E6DE}\text{•}}$ ⠀ ${\color{#C2BFAF}\text{Dark Fantasy}}$ ${\color{#D6D0AC}\text{•}}$
 ${\color{#E2E6DE}\text{𓎢𓎠𓎠𓎟𓎠𓎠𓎡 𓎢𓎠𓎠𓎟𓎠𓎠𓎡}}$
 ${\color{#BDB8A1}\text{Currently}}$ ⠀ ${\color{#E2E6DE}\text{writing}}$ ⠀ ${\color{#B2A792}\text{:}}$
