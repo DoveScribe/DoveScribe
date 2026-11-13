@@ -11,9 +11,9 @@
 </div>
 
 <div align="center">
-  <img align="right" src="https://github.com/DoveScribe/DoveScribe/blob/dd5285cb00ed9227ebf70b6d48e147ab21d7ef6c/Sans%20titre%20545_0014-37-22_20261113191017.png" width="450" alt="Alice" />
+  <img align="left" src="https://github.com/DoveScribe/DoveScribe/blob/dd5285cb00ed9227ebf70b6d48e147ab21d7ef6c/Sans%20titre%20545_0014-37-22_20261113191017.png" width="450" alt="Alice" />
 
-  <div align="left">
+  <div align="right">
 
   ${\color{#BDB8A1}\text{?͟?͟?͟}}$ 
   ${\color{#E2E6DE}\text{or}}$
