@@ -37,3 +37,29 @@ ${\color{#D6D0AC}\text{𝕿һᥱ}}$ ⠀ ${\color{#B2A792}\text{𝕮ᥲrᥒᥲ᥎
 <p align="center">
   <img src="https://github.com/DoveScribe/DoveScribe/blob/0723537cc5642cd728b624d8c39b0bfa25d04f5a/Sans%20titre%20568_20261113225107.png" width="550">
 </p>
+
+<div align="center">
+<table>
+<tr>
+<td width="30%" align="center" valign="middle">
+
+<img src="https://github.com/DoveScribe/DoveScribe/blob/3fc3f883cad5f3ef9738705b7fcf4a5b4fe71da7/Sans%20titre%20565_20261113230158.png" width="100%"/>
+
+<br/>
+
+<p align="center">
+${\color{#F6FFEB}\text{  ྀིྀིྀིྀིྀི ◡◡     France /   English.  ◡◡  ྀིྀིྀིྀིྀི}}$<br/>
+${\color{#7AA49E}\text{Artist     · Teenager}}$<br/>
+${\color{#D4E6DD}\text{ Problematic   dni  . Fantasy vibe    }}$<br/>
+${\color{#4C9489}\text{꒱ Medieval vibe     ·}}$ ${\color{#F6FFEB}\text{ fae aesthetic ꒰}}$
+</p>
+
+</td>
+<td width="70%" align="center" valign="middle">
+
+<img src="https://github.com/DoveScribe/DoveScribe/blob/3fc3f883cad5f3ef9738705b7fcf4a5b4fe71da7/Sans%20titre%20565_20261113223349.png" width="100%"/>
+
+</td>
+</tr>
+</table>
+</div>
