@@ -68,6 +68,20 @@ ${\color{#D6D0AC}\text{✧}}$ [Les renier](https://www.wattpad.com/1667172838) $
 </tr>
 </table>
 </div>
+<div align="center">
+
+<p>
+  <span style="color:#C6B296;">If ⠀ your ⠀ interested ⠀ in ⠀ Reading , ⠀ or ⠀</span><br>
+  <span style="color:#D8C3A5;">just ⠀ a ⠀ big ⠀ fan ⠀ ✧f ⠀ Clowns ⠀ medieval ⠀ go ⠀ read ⠀ ⠀</span><br>
+  <span style="color:#A88D72;">The ⠀ Carnaval ⠀ of ⠀ EverNight ⠀ on ⠀</span><br>
+  <span style="color:#C6B296;">Wattpad ⠀ Pretty ⠀ please ⠀ ✧</span>
+</p>
+
+<p style="color:#D8C3A5;">
+𓎢𓎠𓎠𓎟𓎠𓎠𓎡 𓎢𓎠𓎠𓎟𓎠𓎠𓎡𓎢𓎠𓎠𓎟𓎠𓎠𓎡
+</p>
+
+</div>
 
 <p align="center">
   <img src="https://github.com/DoveScribe/DoveScribe/blob/0eeb18e85976bcf244c5c87e1a90365081aa2686/Sans%20titre%20560_20261113193655.png" width="950">
