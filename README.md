@@ -70,5 +70,5 @@ ${\color{#D6D0AC}\text{✧}}$ [Les renier](https://www.wattpad.com/1667172838) $
 </div>
 
 <p align="center">
-  <img src="https://github.com/DoveScribe/DoveScribe/blob/0eeb18e85976bcf244c5c87e1a90365081aa2686/Sans%20titre%20560_20261113193655.png" width="800">
+  <img src="https://github.com/DoveScribe/DoveScribe/blob/0eeb18e85976bcf244c5c87e1a90365081aa2686/Sans%20titre%20560_20261113193655.png" width="950">
 </p>
