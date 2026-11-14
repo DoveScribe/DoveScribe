@@ -71,14 +71,12 @@ ${\color{#D6D0AC}\text{✧}}$ [Les renier](https://www.wattpad.com/1667172838) $
 
 <div align="center">
 
-${\color{#C6B296}\text{If ⠀ your ⠀ interested ⠀ in ⠀ Reading , ⠀ or ⠀}}$<br/>
+${\color{#C6B296}\text{If ⠀ your ⠀ interested ⠀ in ⠀}}$ ${\color{#E2E6DE}\text{Reading}}$ ${\color{#C6B296}\text{, ⠀ or ⠀}}$<br/>
 ${\color{#D8C3A5}\text{just ⠀ a ⠀ big ⠀ fan ⠀ ✧f ⠀ Clowns ⠀ medieval ⠀ go ⠀ read ⠀ ⠀}}$<br/>
-${\color{#A88D72}\text{The ⠀ Carnaval ⠀ of ⠀ EverNight ⠀ on ⠀}}$<br/>
-${\color{#C6B296}\text{Wattpad ⠀ Pretty ⠀ please  ✧}}$
+${\color{#C6B296}\text{The ⠀}}$ ${\color{#E2E6DE}\text{Carnaval}}$ ${\color{#C6B296}\text{ ⠀ of ⠀ EverNight ⠀ on ⠀}}$<br/>
+${\color{#D8C3A5}\text{Wattpad ⠀ Pretty ⠀ please ⠀ ✧}}$
 
-<br/>
-
-${\color{#D8C3A5}\text{𓎢𓎠𓎠𓎟𓎠𓎠𓎡 𓎢𓎠𓎠𓎟𓎠𓎠𓎡𓎢𓎠𓎠𓎟𓎠𓎠𓎡}}$
+${\color{#E2E6DE}\text{𓎢𓎠𓎠𓎟𓎠𓎠𓎡 𓎢𓎠𓎠𓎟𓎠𓎠𓎡𓎢𓎠𓎠𓎟𓎠𓎠𓎡}}$
 
 </div>
 
